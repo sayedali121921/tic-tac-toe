@@ -1,0 +1,18 @@
+# Build directories
+build/
+cmake-build-*/
+build-*/
+*.out
+*.exe
+
+# IDE and configuration files
+.idea/
+*.user
+.vscode/
+
+# Game save files
+scores.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
